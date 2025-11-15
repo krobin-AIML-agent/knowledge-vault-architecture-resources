@@ -1,39 +1,36 @@
 ## Finance and Economics
-This section reflects the financial and economic fundamentals I pulled from the textbooks and materials I studied. The goal is to keep the concepts clear and practical so they translate directly into decision-making, valuation, and understanding how money moves through a business or investment environment.
+This section reflects the financial and economic fundamentals I pulled from the textbooks and materials I studied. The focus is on clarity, practical application, and understanding how financial decisions map to real business outcomes.
 
-### Brigham and Houston — Financial Management
-- Focuses heavily on core corporate finance principles: risk and return, capital budgeting, capital structure, cost of capital, and cash flow analysis.
-- Emphasizes how firms make decisions about financing, investing, and distributing value to shareholders.
-- Builds the foundation for understanding WACC, NPV, IRR, leverage, and how financial decisions impact firm value over time.
+### Brigham and Houston Financial Management
+- Covers core corporate finance topics including capital budgeting, risk and return, capital structure, cost of capital, and cash flow analysis.
+- Builds the foundation for understanding concepts such as WACC, NPV, IRR, leverage, and how financing choices impact firm value.
 
-### Subramanyam — Financial Statement Analysis
-- Breaks down how to interpret financial statements beyond surface-level metrics.
-- Concentrates on adjustments, accrual analysis, earnings quality, and understanding how accounting decisions shape reported outcomes.
-- Reinforces how to analyze profitability, liquidity, and solvency using a disciplined framework.
+### Subramanyam Financial Statement Analysis
+- Focuses on interpreting financial statements with depth and precision.
+- Highlights earnings quality, accrual analysis, adjustments, and the relationship between accounting decisions and financial outcomes.
+- Reinforces structured evaluation of profitability, liquidity, efficiency, and solvency.
 
-### Reilly and Brown — Investments
-- Establishes the fundamentals of portfolio construction, asset pricing, diversification, and security analysis.
-- Covers risk decomposition, efficient markets, and valuation techniques for equities, bonds, and other financial instruments.
-- Provides a structured way to think about expected return, volatility, and optimization.
+### Reilly and Brown Investments
+- Provides the fundamentals of portfolio theory, asset pricing, diversification, and security valuation.
+- Explains risk decomposition, expected returns, market efficiency, and analytical frameworks used in investment decision-making.
+- Establishes a disciplined approach to constructing and evaluating investment portfolios.
 
 ### Important Finance Formulas
-- Consolidates the core mechanics behind valuation, discounting, compounding, bond pricing, and risk measurements.
-- Helps translate conceptual finance into actionable calculations that support analysis and modeling.
-- Useful for quick verification, building models, and maintaining numerical consistency.
+- Consolidates key formulas used for valuation, discounting, compounding, bond pricing, risk measurement, and performance analysis.
+- Supports accurate modeling, scenario analysis, and quick verification of financial assumptions.
 
 ### Ratio Analysis Sheets
-- Break down operational, liquidity, profitability, leverage, and efficiency ratios.
-- Reinforce how each ratio ties back to business performance and financial health.
-- Provide a quick diagnostic toolkit for evaluating companies across different conditions and time periods.
+- Break down liquidity, profitability, leverage, operational efficiency, and market ratios.
+- Useful for diagnosing business health, analyzing performance trends, and evaluating companies across different environments.
 
 ### Corporate Finance Fundamentals
-- Brings together the themes across all materials: capital allocation, value creation, risk management, and financial decision logic.
-- Establishes the cause-and-effect relationships behind firm behavior, market reactions, and long-term economic outcomes.
-- Builds the strategic perspective needed to analyze businesses, investments, and macro-level conditions.
+- Brings together the central ideas across financial management, accounting analysis, and investment theory.
+- Focuses on value creation, capital allocation, risk management, and the logic behind financial decision-making.
+- Reinforces how financial systems behave under different economic conditions and strategic constraints.
 
 ---
 
 ## Summary
-- These notes consolidate the financial and economic concepts that consistently appear across corporate finance, accounting analysis, investment theory, and practical modeling.
-- The emphasis is on understanding the logic behind financial decisions, not just the formulas.
-- Together, these materials form a cohesive understanding of how to evaluate companies, structure investments, and interpret financial information with clarity and precision.
+- These notes reflect a cohesive understanding of financial management, accounting analysis, investment strategy, and core economic logic.
+- The emphasis is on how decisions, incentives, and financial structures interact in real contexts.
+- Together, these materials form a clear framework for evaluating companies, building investment strategies, and interpreting financial information with precision.
