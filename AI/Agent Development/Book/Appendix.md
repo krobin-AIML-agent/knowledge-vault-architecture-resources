@@ -1,5 +1,4 @@
 # Agentic Design Patterns: Appendix Summaries  
-General study summaries with no copyrighted content.
 
 ---
 
