@@ -81,38 +81,6 @@ Below is a curated list of eight open-source frameworks with links and one-line 
 
 ---
 
-## 📁 Repository Structure
-/
-├── AI/Agent Development/Book
-│ ├── P1.md
-│ ├── P2.md
-│ ├── P3.md
-│ ├── P4.md
-│ ├── Appendix.md
-│ └── Table-of-Content.md
-│
-├── Knowledge-Vault
-│ ├── AI-ML.md
-│ ├── DE&A.md
-│ ├── Finance-&-Economics.md
-│ ├── Military-Science.md
-│ ├── Process-Improvement-&-LSS.md
-│ ├── Program-Management.md
-│ ├── Psychology-Sociology-Criminology.md
-│ ├── Real-Estate-Investing.md
-│ ├── Strategy-&-Competitive-Advantage.md
-│ └── Supply-Chain.md
-│
-├── developer-master-kit
-│ ├── APIs
-│ ├── Practice Resources
-│ ├── Foundations
-│ └── Tools & Documentation
-│
-└── README.md
-
----
-
 ## Purpose
 
 This repository provides a **single, unified ecosystem** designed to:
