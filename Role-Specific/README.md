@@ -15,27 +15,41 @@ It functions as the central knowledge vault for architecture, onboarding, traini
 # 1. High-Level Engineering Ecosystem Diagram
 
 Data Sources
+
 ↓
+
 Data Engineering → ETL/ELT → Warehouse
+
 ↓
+
 ML Engineering → Train → Evaluate → Model Artifacts
+
 ↓
+
 MLOps → Deploy → Serve → Monitor
+
 ↓
+
 AI Engineering → RAG → Agents → AI APIs
+
 ↓
+
 Back-End Engineering → Business Logic → API Gateways
+
 ↓
+
 Fullstack Engineering → Integrated Application
+
 ↓
+
 Front-End Engineering → UI/UX Delivery
+
 ↓
+
 Data Analyst → Insights → Feedback to ML/AI/Data
 
-yaml
-Copy code
 
-This represents the enterprise-grade flow of data → models → AI → applications → business insights.
+**This represents the enterprise-grade flow of data → models → AI → applications → business insights.**
 
 ---
 
