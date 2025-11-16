@@ -1,29 +1,25 @@
 # Table of Contents
-
-## 1. Machine Learning Models
-- [1.1 Supervised Learning](#11-supervised-learning)
-  - [Regression Algorithms](#regression-algorithms)
-  - [Classification Algorithms](#classification-algorithms)
-- [1.2 Unsupervised Learning](#12-unsupervised-learning)
-  - [Clustering Algorithms](#clustering-algorithms)
-  - [Dimensionality Reduction](#dimensionality-reduction)
-- [1.3 Probabilistic Models](#13-probabilistic-models)
-- [1.4 Energy Based Models](#14-energy-based-models)
-
-## 2. Deep Learning Models
-- [2.1 Core Neural Networks](#21-core-neural-networks)
-- [2.2 Vision Architectures](#22-vision-architectures)
-- [2.3 Sequence Models](#23-sequence-models)
-- [2.4 Transformers](#24-transformers)
-- [2.5 Deep Reinforcement Learning](#25-deep-reinforcement-learning)
-
-## 3. Generative Models
-- [3.1 Autoencoder Based](#31-autoencoder-based)
-- [3.2 Adversarial Models](#32-adversarial-models)
-- [3.3 Diffusion Models](#33-diffusion-models)
-- [3.4 Autoregressive Generators](#34-autoregressive-generators)
-- [3.5 Flow Models](#35-flow-models)
-
+- [1. Machine Learning Models](#1-machine-learning-models)
+  - [1.1 Supervised Learning](#11-supervised-learning)
+    - Regression Algorithms
+    - Classification Algorithms
+  - [1.2 Unsupervised Learning](#12-unsupervised-learning)
+    - Clustering Algorithms
+    - Dimensionality Reduction
+  - [1.3 Probabilistic Models](#13-probabilistic-models)
+  - [1.4 Energy Based Models](#14-energy-based-models)
+- [2. Deep Learning Models](#2-deep-learning-models)
+  - [2.1 Core Neural Networks](#21-core-neural-networks)
+  - [2.2 Vision Architectures](#22-vision-architectures)
+  - [2.3 Sequence Models](#23-sequence-models)
+  - [2.4 Transformers](#24-transformers)
+  - [2.5 Deep Reinforcement Learning](#25-deep-reinforcement-learning)
+- [3. Generative Models](#3-generative-models)
+  - [3.1 Autoencoder Based](#31-autoencoder-based)
+  - [3.2 Adversarial Models](#32-adversarial-models)
+  - [3.3 Diffusion Models](#33-diffusion-models)
+  - [3.4 Autoregressive Generators](#34-autoregressive-generators)
+  - [3.5 Flow Models](#35-flow-models)
 ---
 
 ## 1. Machine Learning Models
