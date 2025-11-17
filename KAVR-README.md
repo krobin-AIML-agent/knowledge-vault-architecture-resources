@@ -96,7 +96,7 @@ This repository provides a **single, unified ecosystem** designed to:
 
 ## License
 
-MIT License — free to use, extend, and modify.
+MIT License: free to use, extend, and modify.
 
 ---
 
