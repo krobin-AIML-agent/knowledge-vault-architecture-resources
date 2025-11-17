@@ -228,7 +228,7 @@ This is a living ecosystem. Contributions, suggestions, and improvements are wel
 
 ## License
 
-This stack documentation is maintained by DMC and is provided as-is for educational and professional use.
+This stack documentation is provided as-is for educational and professional use.
 
 ---
 
