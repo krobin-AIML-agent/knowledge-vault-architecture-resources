@@ -2,7 +2,7 @@
 
 > A consolidated framework for building intelligent AI agents, automation workflows, RAG systems, and full-scale AI applications.
 
-## 🎯 Overview
+## Overview
 
 This ecosystem brings together datasets, automation libraries, agent frameworks, model providers, vector stores, structured databases, and code infrastructure to enable the design, development, and deployment of:
 
@@ -17,7 +17,7 @@ Each layer can operate independently, but the real power comes from combining th
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [Datasets](#-a-datasets)
 - [Automation Workflows & Agent Templates](#-b-automation-workflows--agent-templates)
@@ -31,7 +31,7 @@ Each layer can operate independently, but the real power comes from combining th
 
 ---
 
-## 📊 A. Datasets
+## A. Datasets
 
 Public dataset sources for training, evaluation, experimentation, and ML development.
 
@@ -46,7 +46,7 @@ Public dataset sources for training, evaluation, experimentation, and ML develop
 
 ---
 
-## ⚙️ B. Automation Workflows & Agent Templates
+## B. Automation Workflows & Agent Templates
 
 Prebuilt automation logic, agent templates, and prompt libraries.
 
@@ -67,7 +67,7 @@ Prebuilt automation logic, agent templates, and prompt libraries.
 
 ---
 
-## 🤖 C. AI Model Providers
+## C. AI Model Providers
 
 Intelligence layer powering agent reasoning and generative tasks.
 
@@ -79,7 +79,7 @@ Intelligence layer powering agent reasoning and generative tasks.
 
 ---
 
-## 🔄 D. Agent Frameworks & Orchestration
+## D. Agent Frameworks & Orchestration
 
 Tools to build real multi-step, stateful, tool-using agents.
 
@@ -94,7 +94,7 @@ Tools to build real multi-step, stateful, tool-using agents.
 
 ---
 
-## 🔍 E. Vector Databases
+## E. Vector Databases
 
 Semantic search + long-term memory layer for agents and retrieval systems.
 
@@ -109,7 +109,7 @@ Semantic search + long-term memory layer for agents and retrieval systems.
 
 ---
 
-## 💾 F. Structured Databases
+## F. Structured Databases
 
 Transactional and app-level storage for AI systems.
 
@@ -124,14 +124,14 @@ Transactional and app-level storage for AI systems.
 
 ---
 
-## 🔧 G. Version Control & Code Repos
+## G. Version Control & Code Repos
 
 ### [GitHub](https://github.com/)
 **Use case:** Version control for agent code, automation scripts, workflows, documentation, and CI/CD.
 
 ---
 
-## 🚀 H. Collective Capabilities
+## H. Collective Capabilities
 
 When the entire stack is used together, it supports:
 
@@ -172,7 +172,7 @@ When the entire stack is used together, it supports:
 
 ---
 
-## 🔨 I. Isolated Capabilities
+## I. Isolated Capabilities
 
 What each component can do on its own:
 
@@ -188,7 +188,7 @@ What each component can do on its own:
 
 ---
 
-## 📖 Getting Started
+## Getting Started
 
 1. **Choose your use case** from the Collective Capabilities section
 2. **Select the relevant tools** from each category
@@ -200,7 +200,7 @@ What each component can do on its own:
 
 ---
 
-## 💡 Example Architecture
+## Example Architecture
 
 ```
 User Query
@@ -220,13 +220,13 @@ Response to User
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 This is a living ecosystem. Contributions, suggestions, and improvements are welcome!
 
 ---
 
-## 📄 License
+## License
 
 This stack documentation is maintained by DMC and is provided as-is for educational and professional use.
 
