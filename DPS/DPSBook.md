@@ -29,7 +29,7 @@ The outcome is **operational excellence** through:
 <details>
 <summary><strong>1.0 Web Tier (Front-End + Back-End Integration)</strong></summary>
 
-- [1.0 Web Tier](#10-web-tier-front-end-and-back-end-architecture)
+- [1.0 Web Tier](#10-web-tier)
   - [1.1 Front-End (Client Layer)](#11-front-end-client-layer)
   - [1.2 Back-End (Server Layer)](#12-back-end-server-layer)
   - [1.3 Microservices Architecture](#13-microservices-architecture)
@@ -42,13 +42,13 @@ The outcome is **operational excellence** through:
 <details>
 <summary><strong>2.0 Data Tier (Schema, SQL, ETL/ELT, Warehousing)</strong></summary>
 
-- [2.0 Data Tier](#20-data-tier-storage-schema-and-transformation-layer)
-  - [2.1 Core Components](#21-core-components-of-the-data-tier)
-  - [2.2 Schema Design & Data Modeling](#22-schema-design-and-data-modeling)
-  - [2.3 ETL / ELT Pipelines](#23-data-transformation-pipelines-etl--elt)
+- [2.0 Data Tier](#20-data-tier)
+  - [2.1 Core Components](#21-core-components)
+  - [2.2 Schema Design & Data Modeling](#22-schema-design--data-modeling)
+  - [2.3 ETL / ELT Pipelines](#23-etl--elt-pipelines)
   - [2.4 Data Formats & File Types](#24-data-formats--file-types)
-  - [2.5 Data Quality & Lineage](#25-data-quality-validation--lineage)
-  - [2.6 Query Optimization](#26-data-access--query-optimization)
+  - [2.5 Data Quality & Lineage](#25-data-quality--lineage)
+  - [2.6 Query Optimization](#26-query-optimization)
   - [2.7 Data Tier Objectives](#27-data-tier-objectives)
 
 </details>
@@ -59,14 +59,14 @@ The outcome is **operational excellence** through:
 <summary><strong>3.0 Infrastructure & Automation Tier</strong></summary>
 
 - [3.0 Infrastructure & Automation Tier](#30-infrastructure--automation-tier)
-  - [3.1 Infrastructure Principles](#31-core-infrastructure-principles)
+  - [3.1 Infrastructure Principles](#31-infrastructure-principles)
   - [3.2 CI/CD Pipelines](#32-cicd-pipelines)
   - [3.3 Containerization](#33-containerization)
   - [3.4 Orchestration & Cluster Management](#34-orchestration--cluster-management)
   - [3.5 Cloud Compute & Storage](#35-cloud-compute--storage)
   - [3.6 Workflow Orchestration](#36-workflow-orchestration)
-  - [3.7 Monitoring & Optimization](#37-infrastructure-monitoring--optimization)
-  - [3.8 Security & Compliance](#38-security--compliance-in-infrastructure)
+  - [3.7 Monitoring & Optimization](#37-monitoring--optimization)
+  - [3.8 Security & Compliance](#38-security--compliance)
   - [3.9 Infrastructure Tier Objectives](#39-infrastructure-tier-objectives)
 
 </details>
@@ -78,11 +78,11 @@ The outcome is **operational excellence** through:
 
 - [4.0 Intelligence Tier](#40-intelligence-tier)
   - [4.1 Exploratory Data Analysis (EDA)](#41-exploratory-data-analysis-eda)
-  - [4.2 Machine Learning](#42-machine-learning-ml)
-  - [4.3 Deep Learning](#43-deep-learning-dl)
-  - [4.4 Feature Stores & Pipelines](#44-feature-stores--ml-pipelines)
+  - [4.2 Machine Learning](#42-machine-learning)
+  - [4.3 Deep Learning](#43-deep-learning)
+  - [4.4 Feature Stores & Pipelines](#44-feature-stores--pipelines)
   - [4.5 Model Deployment & Serving](#45-model-deployment--serving)
-  - [4.6 MLOps](#46-mlops-machine-learning-operations)
+  - [4.6 MLOps](#46-mlops)
   - [4.7 AI Integration & Cognitive Services](#47-ai-integration--cognitive-services)
   - [4.8 Intelligence Tier Objectives](#48-intelligence-tier-objectives)
 
@@ -94,13 +94,13 @@ The outcome is **operational excellence** through:
 <summary><strong>5.0 Governance & Cybersecurity Layer</strong></summary>
 
 - [5.0 Governance & Cybersecurity Layer](#50-governance--cybersecurity-layer)
-  - [5.1 Metadata Management](#51-metadata-management-mdm--data-cataloging)
-  - [5.2 Access Control & IAM](#52-access-control--identity-management)
+  - [5.1 Metadata Management](#51-metadata-management)
+  - [5.2 Access Control & IAM](#52-access-control--iam)
   - [5.3 Data Privacy & Compliance](#53-data-privacy--compliance)
   - [5.4 Encryption & Network Security](#54-encryption--network-security)
-  - [5.5 DevSecOps](#55-devsecops-security-in-the-cicd-pipeline)
-  - [5.6 Backup & Disaster Recovery](#56-backup-disaster-recovery-and-resilience)
-  - [5.7 Cyber Threat Intelligence](#57-cyber-threat-intelligence-cti)
+  - [5.5 DevSecOps](#55-devsecops)
+  - [5.6 Backup & Disaster Recovery](#56-backup--disaster-recovery)
+  - [5.7 Cyber Threat Intelligence](#57-cyber-threat-intelligence)
   - [5.8 Governance Layer Objectives](#58-governance-layer-objectives)
 
 </details>
@@ -127,14 +127,14 @@ The outcome is **operational excellence** through:
 <details>
 <summary><strong>7.0 FinOps & Cost Optimization</strong></summary>
 
-- [7.0 FinOps & Cost Optimization](#70-finops--cost-optization)
+- [7.0 FinOps & Cost Optimization](#70-finops--cost-optimization)
   - [7.1 FinOps Fundamentals](#71-finops-fundamentals)
   - [7.2 Cloud Cost Visibility](#72-cloud-cost-visibility)
   - [7.3 Optimization Strategies](#73-optimization-strategies)
   - [7.4 Governance & Budget Enforcement](#74-governance--budget-enforcement)
-  - [7.5 KPIs & Metrics](#75-kpis-and-metrics-for-finops)
+  - [7.5 KPIs & Metrics](#75-kpis--metrics)
   - [7.6 Automation in FinOps](#76-automation-in-finops)
-  - [7.7 Cultural Aspects of FinOps](#77-cultural-aspects-of-finops)
+  - [7.7 Cultural Aspects of FinOps](#77-cultural-aspects)
   - [7.8 FinOps Tier Objectives](#78-finops-tier-objectives)
 
 </details>
@@ -145,14 +145,14 @@ The outcome is **operational excellence** through:
 <summary><strong>8.0 AI Lifecycle & Continuous Learning</strong></summary>
 
 - [8.0 AI Lifecycle & Continuous Learning](#80-ai-lifecycle--continuous-learning)
-  - [8.1 Lifecycle Phases](#81-lifecycle-phases-overview)
-  - [8.2 Continuous Training & Deployment](#82-continuous-training-ct--continuous-deployment-cd)
+  - [8.1 Lifecycle Phases](#81-lifecycle-phases)
+  - [8.2 Continuous Training & Deployment](#82-continuous-training--deployment)
   - [8.3 Model Monitoring & Drift Detection](#83-model-monitoring--drift-detection)
   - [8.4 Explainability & Ethics (XAI)](#84-explainability--ethics-xai)
-  - [8.5 AIOps](#85-aiops-ai-for-it-operations)
+  - [8.5 AIOps](#85-aiops)
   - [8.6 Feedback Loops & Human Oversight](#86-feedback-loops--human-oversight)
   - [8.7 Governance in the AI Lifecycle](#87-governance-in-the-ai-lifecycle)
-  - [8.8 AI Lifecycle Objectives](#88-ai-lifecycle-tier-objectives)
+  - [8.8 AI Lifecycle Objectives](#88-ai-lifecycle-objectives)
 
 </details>
 
@@ -162,13 +162,13 @@ The outcome is **operational excellence** through:
 <summary><strong>9.0 Change Management & Configuration Control</strong></summary>
 
 - [9.0 Change Management & Configuration Control](#90-change-management--configuration-control)
-  - [9.1 Version Control](#91-version-control--source-management)
+  - [9.1 Version Control](#91-version-control)
   - [9.2 Configuration as Code](#92-configuration-as-code)
   - [9.3 Environment Management](#93-environment-management)
   - [9.4 Change Control Process](#94-change-control-process)
   - [9.5 Documentation & Traceability](#95-documentation--traceability)
-  - [9.6 Data & ML Configuration Control](#96-configuration-control-in-data--ml-systems)
-  - [9.7 Change Management Objectives](#97-change-management-tier-objectives)
+  - [9.6 Data & ML Configuration Control](#96-data--ml-configuration-control)
+  - [9.7 Change Management Objectives](#97-change-management-objectives)
 
 </details>
 
@@ -179,8 +179,8 @@ The outcome is **operational excellence** through:
 
 - [10.0 End-to-End Digital Production Flow Summary](#100-end-to-end-digital-production-flow-summary)
   - [10.1 Value Chain Overview](#101-value-chain-overview)
-  - [10.2 System Flow Visualization](#102-system-flow-left-to-right-visualization)
-  - [10.3 Continuous Improvement Cycle (PDCA)](#103-continuous-improvement-cycle-pdca)
+  - [10.2 System Flow Visualization](#102-system-flow-visualization)
+  - [10.3 Continuous Improvement Cycle](#103-continuous-improvement-cycle)
   - [10.4 System Flow Dependencies](#104-system-flow-dependencies)
   - [10.5 Digital System Integration View](#105-digital-system-integration-view)
   - [10.6 End-to-End Objectives](#106-end-to-end-objectives)
@@ -192,14 +192,14 @@ The outcome is **operational excellence** through:
 <details>
 <summary><strong>11.0 Glossary of Core Terms</strong></summary>
 
-- [11.0 Glossary](#110-glossary-of-core-terms)
+- [11.0 Glossary of Core Terms](#110-glossary-of-core-terms)
   - [A–C](#a-c)
   - [D–F](#d-f)
   - [G–L](#g-l)
   - [M–P](#m-p)
   - [Q–S](#q-s)
   - [T–Z](#t-z)
-  - [Glossary Summary](#summary)
+  - [Glossary Summary](#glossary-summary)
 
 </details>
   
