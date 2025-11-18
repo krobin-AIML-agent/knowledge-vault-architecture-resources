@@ -7,11 +7,15 @@ A comprehensive hierarchical guide to understanding the relationships between AI
 ## Table of Contents
 
 - [Overview](#overview)
-- [ Artificial Intelligence (AI)](#-artificial-intelligence-ai--the-broadest-field)
-- [ Machine Learning (ML)](#-machine-learning-ml--subset-of-ai)
-- [ Neural Networks (NN)](#-neural-networks-nn--ml-models-inspired-by-the-brain)
-- [ Deep Learning (DL)](#-deep-learning-dl--subset-of-nn-with-many-layers)
+- [🤖 Artificial Intelligence (AI)](#artificial-intelligence-ai-the-broadest-field)
+- [📊 Machine Learning (ML)](#machine-learning-ml-subset-of-ai)
+- [🧠 Neural Networks (NN)](#neural-networks-nn-ml-models-inspired-by-the-brain)
+- [🚀 Deep Learning (DL)](#deep-learning-dl-subset-of-nn-with-many-layers)
 - [Hierarchy Visualization](#hierarchy-visualization)
+- [Quick Comparison Table](#quick-comparison-table)
+- [Key Concepts to Remember](#key-concepts-to-remember)
+- [Learning Path Recommendations](#learning-path-recommendations)
+- [Popular Tools & Frameworks](#popular-tools--frameworks)
 
 ---
 
@@ -211,11 +215,11 @@ ARTIFICIAL INTELLIGENCE (AI)
 
 ### Intermediate
 1. Explore Neural Networks and backpropagation
-2. Build projects with scikit-learn and basic NNs
+2. Build projects with [scikit-learn](https://scikit-learn.org/) and basic NNs
 3. Study feature engineering and model evaluation
 
 ### Advanced
-1. Dive into Deep Learning frameworks (TensorFlow, PyTorch)
+1. Dive into Deep Learning frameworks ([TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/))
 2. Specialize in CNNs, RNNs, or Transformers
 3. Implement state-of-the-art models (BERT, GPT, GANs)
 
@@ -224,19 +228,69 @@ ARTIFICIAL INTELLIGENCE (AI)
 ## Popular Tools & Frameworks
 
 ### Machine Learning
-- **Scikit-learn** - Traditional ML algorithms
-- **XGBoost** - Gradient boosting
-- **LightGBM** - Fast gradient boosting
+
+| Library | Description | Link |
+|---------|-------------|------|
+| **Scikit-learn** | Traditional ML algorithms (classification, regression, clustering) | [scikit-learn.org](https://scikit-learn.org/) |
+| **XGBoost** | Gradient boosting library for speed and performance | [xgboost.readthedocs.io](https://xgboost.readthedocs.io/) |
+| **LightGBM** | Fast gradient boosting framework by Microsoft | [lightgbm.readthedocs.io](https://lightgbm.readthedocs.io/) |
+| **CatBoost** | Gradient boosting with categorical feature support | [catboost.ai](https://catboost.ai/) |
 
 ### Deep Learning
-- **TensorFlow** - Google's DL framework
-- **PyTorch** - Facebook's DL framework
-- **Keras** - High-level neural networks API
 
-### Specialized
-- **Hugging Face** - Transformer models
-- **OpenCV** - Computer vision
-- **spaCy** - NLP tasks
+| Framework | Description | Link |
+|-----------|-------------|------|
+| **TensorFlow** | Google's end-to-end open-source platform for ML | [tensorflow.org](https://www.tensorflow.org/) |
+| **PyTorch** | Facebook's deep learning framework with dynamic computation | [pytorch.org](https://pytorch.org/) |
+| **Keras** | High-level neural networks API (now integrated with TensorFlow) | [keras.io](https://keras.io/) |
+| **JAX** | High-performance numerical computing with autograd | [github.com/google/jax](https://github.com/google/jax) |
+| **MXNet** | Apache deep learning framework with scalability | [mxnet.apache.org](https://mxnet.apache.org/) |
+
+### Natural Language Processing
+
+| Library | Description | Link |
+|---------|-------------|------|
+| **Hugging Face Transformers** | State-of-the-art NLP models (BERT, GPT, T5) | [huggingface.co](https://huggingface.co/) |
+| **spaCy** | Industrial-strength NLP library | [spacy.io](https://spacy.io/) |
+| **NLTK** | Natural Language Toolkit for text processing | [nltk.org](https://www.nltk.org/) |
+| **Gensim** | Topic modeling and document similarity | [radimrehurek.com/gensim](https://radimrehurek.com/gensim/) |
+
+### Computer Vision
+
+| Library | Description | Link |
+|---------|-------------|------|
+| **OpenCV** | Open source computer vision library | [opencv.org](https://opencv.org/) |
+| **Detectron2** | Facebook's object detection platform | [github.com/facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) |
+| **YOLO** | Real-time object detection system | [pjreddie.com/darknet/yolo](https://pjreddie.com/darknet/yolo/) |
+| **Albumentations** | Fast image augmentation library | [albumentations.ai](https://albumentations.ai/) |
+
+### Reinforcement Learning
+
+| Framework | Description | Link |
+|-----------|-------------|------|
+| **OpenAI Gym** | Toolkit for developing RL algorithms | [gymnasium.farama.org](https://gymnasium.farama.org/) |
+| **Stable Baselines3** | Reliable RL algorithm implementations | [stable-baselines3.readthedocs.io](https://stable-baselines3.readthedocs.io/) |
+| **Ray RLlib** | Scalable RL library | [docs.ray.io/en/latest/rllib](https://docs.ray.io/en/latest/rllib/index.html) |
+
+### Model Deployment & Production
+
+| Tool | Description | Link |
+|------|-------------|------|
+| **ONNX** | Open Neural Network Exchange format | [onnx.ai](https://onnx.ai/) |
+| **TensorFlow Serving** | Production ML model serving system | [tensorflow.org/tfx/guide/serving](https://www.tensorflow.org/tfx/guide/serving) |
+| **TorchServe** | PyTorch model serving framework | [pytorch.org/serve](https://pytorch.org/serve/) |
+| **MLflow** | Open source platform for ML lifecycle | [mlflow.org](https://mlflow.org/) |
+| **Weights & Biases** | ML experiment tracking and visualization | [wandb.ai](https://wandb.ai/) |
+
+### Data Processing & Visualization
+
+| Library | Description | Link |
+|---------|-------------|------|
+| **NumPy** | Fundamental package for numerical computing | [numpy.org](https://numpy.org/) |
+| **Pandas** | Data manipulation and analysis | [pandas.pydata.org](https://pandas.pydata.org/) |
+| **Matplotlib** | Comprehensive data visualization | [matplotlib.org](https://matplotlib.org/) |
+| **Seaborn** | Statistical data visualization | [seaborn.pydata.org](https://seaborn.pydata.org/) |
+| **Plotly** | Interactive graphing library | [plotly.com](https://plotly.com/) |
 
 ---
 
@@ -252,7 +306,34 @@ This guide can always be improved! Contributions welcome:
 
 ## Additional Resources
 
-- **Research Papers**: arXiv.org, Papers with Code
-- **Courses**: Fast.ai, Coursera, DeepLearning.AI
-- **Books**: "Deep Learning" by Goodfellow, "Hands-On Machine Learning"
-- **Communities**: r/MachineLearning, Kaggle, AI Discord servers
+### Online Learning Platforms
+- **[Fast.ai](https://www.fast.ai/)**: Practical deep learning courses
+- **[Coursera: Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)**: Andrew Ng's foundational course
+- **[DeepLearning.AI](https://www.deeplearning.ai/)**: Comprehensive AI education
+- **[Kaggle Learn](https://www.kaggle.com/learn)**: Hands-on micro-courses
+
+### Research & Papers
+- **[arXiv.org](https://arxiv.org/)**: Open-access research papers
+- **[Papers with Code](https://paperswithcode.com/)**: Papers with implementation code
+- **[Google Scholar](https://scholar.google.com/)**: Academic search engine
+- **[Semantic Scholar](https://www.semanticscholar.org/)**: AI-powered research tool
+
+### Books
+- **[Deep Learning](https://www.deeplearningbook.org/)** by Ian Goodfellow: The definitive textbook
+- **[Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)** by Aurélien Géron
+- **[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)** by Christopher Bishop
+- **[The Hundred-Page Machine Learning Book](http://themlbook.com/)** by Andriy Burkov
+
+### Communities
+- **[r/MachineLearning](https://www.reddit.com/r/MachineLearning/)**: Reddit ML community
+- **[Kaggle](https://www.kaggle.com/)**: Data science competitions and learning
+- **[AI Alignment Forum](https://www.alignmentforum.org/)**: AI safety discussions
+- **[Hugging Face Discord](https://discord.gg/hugging-face)**: NLP community
+- **[PyTorch Forums](https://discuss.pytorch.org/)**: PyTorch discussions
+- **[TensorFlow Forum](https://discuss.tensorflow.org/)**: TensorFlow community
+
+---
+
+**Last Updated**: November 2025  
+**License**: MIT: Use freely with attribution
+
