@@ -6,26 +6,26 @@ This framework unifies **DataOps**, **DevOps**, **MLOps**, and **Governance** in
 
 ## 1. Core Flow Overview
 **Data moves left → right** through 10 integrated layers:
-1. **Programming & Logic Layer** – Python, SQL, Bash, APIs, PL/SQL logic.
-2. **ETL & Orchestration Layer** – Airflow, Prefect, Dagster, Fivetran, Talend, Informatica, Stitch.
-3. **Storage & Database Layer** – PostgreSQL, MongoDB, Snowflake, BigQuery, Databricks Delta Lake.
-4. **Schema Design & Modeling Layer** – Star, Snowflake, Galaxy, and Data Vault schemas.
-5. **Compute & Processing Layer** – Spark, Hadoop, Databricks, AWS Glue.
-6. **Containerization & Deployment Layer** – Docker, Kubernetes, Helm, CI/CD pipelines.
-7. **Cloud Platform Layer** – AWS, Azure, GCP.
-8. **Analytics & Visualization Layer** – Power BI, Tableau, Looker, Quip, Qlik, Domo.
-9. **Machine Learning & AI Layer** – MLflow, SageMaker, Vertex AI, AutoML, LangChain.
-10. **Governance, Monitoring & Security Layer** – MDM, lineage, compliance, observability.
+1. **Programming & Logic Layer**: Python, SQL, Bash, APIs, PL/SQL logic.
+2. **ETL & Orchestration Layer**: Airflow, Prefect, Dagster, Fivetran, Talend, Informatica, Stitch.
+3. **Storage & Database Layer**: PostgreSQL, MongoDB, Snowflake, BigQuery, Databricks Delta Lake.
+4. **Schema Design & Modeling Layer**: Star, Snowflake, Galaxy, and Data Vault schemas.
+5. **Compute & Processing Layer**: Spark, Hadoop, Databricks, AWS Glue.
+6. **Containerization & Deployment Layer**: Docker, Kubernetes, Helm, CI/CD pipelines.
+7. **Cloud Platform Layer**: AWS, Azure, GCP.
+8. **Analytics & Visualization Layer**: Power BI, Tableau, Looker, Quip, Qlik, Domo.
+9. **Machine Learning & AI Layer**: MLflow, SageMaker, Vertex AI, AutoML, LangChain.
+10. **Governance, Monitoring & Security Layer**: MDM, lineage, compliance, observability.
 
 ---
 
 ## 2. Database & Schema Design Foundations
 
 ### **Schema Types**
-- **Star Schema** – Fact + dimension tables for simplicity.
-- **Snowflake Schema** – Normalized dimensions for storage efficiency.
-- **Galaxy Schema** – Multiple fact tables sharing dimensions.
-- **Data Vault Schema** – Hubs, Links, and Satellites for historical tracking.
+- **Star Schema**: Fact + dimension tables for simplicity.
+- **Snowflake Schema**: Normalized dimensions for storage efficiency.
+- **Galaxy Schema**: Multiple fact tables sharing dimensions.
+- **Data Vault Schema**: Hubs, Links, and Satellites for historical tracking.
 
 ### **DDL / DML / DQL / DCL / TCL Commands**
 | Category | Function | Examples |
@@ -61,8 +61,8 @@ Each **microservice** = 1 modular operation.
 |------------|-------------|
 | **Docker Container** | Self-contained unit with runtime + dependencies. |
 | **Kubernetes Pod** | Manages one or more containers (microservices). |
-| **Service Mesh** | Istio, Linkerd – manage communication and routing. |
-| **API Gateway** | Kong, Apigee, AWS Gateway – traffic control and security. |
+| **Service Mesh** | Istio, Linkerd: manage communication and routing. |
+| **API Gateway** | Kong, Apigee, AWS Gateway: traffic control and security. |
 
 **Common Microservice Patterns:**
 - ETL microservices (extract/transform/load)
@@ -87,7 +87,7 @@ Each **microservice** = 1 modular operation.
 - **Message Queues:** RabbitMQ, Pub/Sub.
 - **API Gateways:** Kong, Apigee, NGINX.
 - **Serialization Standards:** JSON, Protobuf, Avro.
-- **Service Mesh:** Istio, Consul – manage microservice-to-microservice security and routing.
+- **Service Mesh:** Istio, Consul: manage microservice-to-microservice security and routing.
 
 ---
 
