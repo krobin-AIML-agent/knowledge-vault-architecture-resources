@@ -1,4 +1,4 @@
-# 4-Quadrant Domain Map (Final Version)
+# 4-Quadrant Domain Map 
 
 ## 1. Technical & Engineering
 - AI / ML / Automation Engineering  
