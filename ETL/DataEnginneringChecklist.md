@@ -8,7 +8,8 @@ _Pre → Ingest → Process → Store → Serve → Govern_
 ## 0.1 Define the Data Source  
 - [Multi-select]  
   - [ ] SaaS API  
-  - [ ] Database extraction via **CDC** → https://debezium.io/  
+  - [ ] Database extraction via
+    - **CDC** → https://debezium.io/  
   - [ ] Event/stream → 
     - **Kafka** https://kafka.apache.org
     - **Kinesis** https://aws.amazon.com/kinesis
