@@ -11,10 +11,10 @@ This repository contains guides organized into one main area:
 ### Foundational AI
 Core knowledge base covering data analytics and artificial intelligence fundamentals.
 
-- **[AI Breakdown](Foundational%20AI/AI%20Breakdown.md)**: Hierarchical taxonomy showing how AI → ML → Neural Networks → Deep Learning all connect
-- **[AI Guide](Foundational%20AI/AI%20Guide.md)**: Overview of AI domains including ML, DL, NLP, Computer Vision, Robotics, Expert Systems, and Speech Recognition
-- **[Data Analyst Guide](Foundational%20AI/DataAnalystGuide.md)**: Complete roadmap covering statistics, Excel, and operational analytics with real CI/manufacturing examples
-- **[The Basics of Top AI Concepts](Foundational%20AI/The-Basics-of-Top-AI-Concepts.md)**: Modern AI systems: LLMs, RAG, AI Agents, and Agentic AI
+- **[AI Breakdown](Foundational-AI/AI-Breakdown.md)** - Hierarchical taxonomy showing how AI → ML → Neural Networks → Deep Learning all connect
+- **[AI Guide](Foundational-AI/AI-Guide.md)** - Overview of AI domains including ML, DL, NLP, Computer Vision, Robotics, Expert Systems, and Speech Recognition
+- **[Data Analyst Guide](Foundational-AI/DataAnalystGuide.md)** - Complete roadmap covering statistics, Excel, and operational analytics with real CI/manufacturing examples
+- **[The Basics of Top AI Concepts](Foundational-AI/The-Basics-of-Top-AI-Concepts.md)** - Modern AI systems: LLMs, RAG, AI Agents, and Agentic AI
 
 ---
 
