@@ -3,22 +3,6 @@
 
 ---
 
-# TABLE OF CONTENTS
-1. [SYSTEM VARIANT MAP](#system-variant-map)  
-   - [SECTION A: Files → Python](#section-a--files--python-variants)  
-   - [SECTION B: Files → Databases](#section-b--files--database-variants)  
-   - [SECTION C: Database → Database](#section-c--database--database-variants)  
-   - [SECTION D: Database → Warehouse](#section-d--database--warehouse-variants)  
-   - [SECTION E: Python → Warehouse](#section-e--python--warehouse-variants)  
-   - [SECTION F: Warehouse → BI](#section-f--warehouse--bi-variants)  
-   - [SECTION G: Warehouse → Cloud Storage](#section-g--warehouse--cloud-storage)  
-   - [SECTION H: Database → BI](#section-h--database--bi-variants)  
-   - [SECTION I: Cloud Storage](#section-i--cloud-storage-variants)  
-   - [SECTION J: SaaS Apps](#section-j--saas-app-variants)  
-   - [SECTION K: Python Brain Layer](#section-k--python-brain-layer)
-
----
-
 # SYSTEM VARIANT MAP
 Below is the full set of all valid ETL/migration paths across your ecosystem.
 
