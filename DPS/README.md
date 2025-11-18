@@ -6,7 +6,7 @@
 
 The **Digital Production System (DPS)** is a comprehensive architectural framework that integrates Data Engineering, DevOps, Cloud Infrastructure, AI/ML Operations, Observability, Governance, and Continuous Improvement into a unified operating model.
 
-This framework applies Lean Manufacturing principles to digital systems, enabling automation, self-healing capabilities, and intelligent feedback loops across the entire data-to-intelligence value chain.
+This framework applies Lean Manufacturing principle to digital systems, enabling automation, self-healing capabilities, and intelligent feedback loops across the entire data-to-intelligence value chain.
 
 ---
 
