@@ -102,7 +102,7 @@ Algorithm & data-structure practice for interviews and mastery.
   https://leetcode.com/
   
 ### **Langgraph**
-  https://github.com/langchain-ai/langgraph
+- https://github.com/langchain-ai/langgraph
 
 ---
 
