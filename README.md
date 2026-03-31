@@ -220,12 +220,6 @@ It is structured to support both **individual learning** and **enterprise-scale 
 
 ---
 
-# 7. License
-
-Add your preferred license here (MIT recommended).
-
----
-
-# 8. Contact
+# 7. Contact
 
 For collaboration, consulting, or inquiries, connect via GitHub or email.
